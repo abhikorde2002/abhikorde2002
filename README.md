@@ -25,7 +25,8 @@
 <a href="https://www.leetcode.com/abhishekkorde44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekkorde44" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<hr>
+<h3 align="left">🚀 Languages and Tools:</h3>
 <p > 
   <a  href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
@@ -38,8 +39,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhikorde2002&show_icons=true&locale=en&layout=compact" alt="abhikorde2002" /></p>
+<p ><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhikorde2002&show_icons=true&locale=en&layout=compact" alt="abhikorde2002" /></p>
+<br>
+<h2> My Github Status</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhikorde2002&show_icons=true&locale=en" alt="abhikorde2002" /></p>
-
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhikorde2002&show_icons=true&locale=en" alt="abhikorde2002" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhikorde2002&" alt="abhikorde2002" /></p>
