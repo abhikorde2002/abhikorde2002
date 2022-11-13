@@ -17,16 +17,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhikorde2002&label=Profile%20views&color=0e75b6&style=flat" alt="abhikorde2002" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<br>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek korde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek korde" height="30" width="40" /></a>               
-<a href="https://codepen.io/abhikorde2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhikorde2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhishekkorde44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekkorde44" height="30" width="40" /></a>
-</p>
 
-<hr>
-<h3 align="left">🚀 Languages and Tools:</h3>
+<br>
+
+<h3 align="left">🚀 Languages and Tools :- </h3>
 <p > 
   <a  href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
@@ -40,7 +34,8 @@
   </p>
 
 <p ><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhikorde2002&show_icons=true&locale=en&layout=compact" alt="abhikorde2002" /></p>
-<br>
+
+
 ## 📊 My Github Stats
 
 
@@ -56,4 +51,13 @@
 <img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhikorde2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br/>
-<br/>                                                                                                                      
+<br/>      
+
+<h3 align="left">Connect with me:</h3>
+<br>
+<p align="left">
+<a href="https://linkedin.com/in/abhishek korde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek korde" height="30" width="40" /></a>               
+<a href="https://codepen.io/abhikorde2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhikorde2002" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhishekkorde44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekkorde44" height="30" width="40" /></a>
+</p>
+
