@@ -41,12 +41,17 @@
 
 <p ><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhikorde2002&show_icons=true&locale=en&layout=compact" alt="abhikorde2002" /></p>
 <br>
-<h2> My Github Status</h2>
+## 📊 My Github Stats
 
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhikorde2002&show_icons=true&locale=en" alt="abhikorde2002" /></p>
+
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhikorde2002&" alt="abhikorde2002" /></p>
-                                                                                                                      
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhikorde2002&show_icons=true&locale=en&theme=highcontrast" alt="abhikorde2002" /></p>
+<br>
+                                  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhikorde2002&&theme=highcontrast" alt="abhikorde2002" /></p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>                                                                                                            
 <br/>
 <img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhikorde2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
