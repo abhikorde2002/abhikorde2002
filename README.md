@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Korde</h1>
 
-<h3 align="center">I'm a Full Stack Web Developer</h3>
+<h3 align="center">I'm a Thane west Incharge</h3>
 <hr/>
 
 <a target="_blank">
