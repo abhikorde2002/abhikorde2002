@@ -16,9 +16,9 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"">
 </a>
 
-- 🌱 I’m currently learning **Spring Hibernate & DSA**
+- 🌱 I’m currently learning **MERN Full Stack  & DSA**
 
-- 💬 Ask me about **Full-Stack**
+- Ask me about **anything related to Full-Stack**
 
 - 📫 How to reach me **abhishekkorde44@gmial.com**
 
