@@ -16,7 +16,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"">
 </a>
 
-- 🌱 I’m currently Devops**
+- 🌱 I’m currently learning Devops**
 
 - Ask me about **anything related to Full-Stack**
 
