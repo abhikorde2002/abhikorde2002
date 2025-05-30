@@ -8,7 +8,7 @@
   </a>
 </h1>
 <!-- //change here  -->
-<h2 align="center">I'm Abhishek Korde, a Solution Developer at Justransform 👨‍💻 🚀</h2>  
+<h2 align="center">I'm Abhishek Korde, a Solution Developer at Gotatva Software Consultans LLp 👨‍💻 🚀</h2>  
   <br/>
 <br/>
 
@@ -16,7 +16,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"">
 </a>
 
-- 🌱 I’m currently learning **MERN  Stack  & DSA**
+- 🌱 I’m currently Devops**
 
 - Ask me about **anything related to Full-Stack**
 
